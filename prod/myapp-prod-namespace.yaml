@@ -5,6 +5,6 @@ metadata:
     openshift.io/description: my wonderful app
   labels:
     application: myapp
-    size: 
+    size: medium
     team: group:default/team-a
   name: myapp-prod
